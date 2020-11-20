@@ -5,7 +5,7 @@ var config = {
     texts: [
         "陪你把想念的酸",
         "拥抱成温暖",
-        "陪你把独自个孤单",
+        "陪你把独自孤单",
         "变成了勇敢",
         "陪你把沿路感想",
         "活出了答案",
@@ -27,16 +27,16 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
+        //"心爱的小可爱": "./imgs/xiaokeai.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开灯",
-        play: "来点音乐",
-        bannar_coming: "少点氛围",
-        balloons_flying: "加点感动",
-        cake_fadein: "送你一个蛋糕",
+        play: "打开音乐",
+        bannar_coming: "加点氛围",
+        balloons_flying: "放些气球",
+        cake_fadein: "再来个蛋糕",
         light_candle: "点起蜡烛",
         wish_message: "快许个愿吧",
         story: "宝宝生日快乐",
